@@ -1,0 +1,8 @@
+LearningNewSkills\pageObject\CheckoutPage.class
+LearningNewSkills\pageObject\ProductPage.class
+LearningNewSkills\pageObject\LandingPage.class
+LearningNewSkills\pageObject\OrderHistoryPage.class
+LearningNewSkills\AbstractComponents\AbstractComponents.class
+LearningNewSkills\pageObject\OrderConfirmationPage.class
+LearningNewSkills\Resources\ExtentReporterNG.class
+LearningNewSkills\pageObject\cartPage.class
